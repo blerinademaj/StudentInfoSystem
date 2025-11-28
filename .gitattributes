@@ -1,2 +1,9 @@
+/*
 *.sql linguist-detectable=true
 *.sql linguist-language=SQL
+*/
+
+# Enable SQL as a detectable language
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
